@@ -11,7 +11,7 @@ This repository contains a comprehensive suite of autonomous driving software de
 
 ## 🚀 Key Projects
 
-### 1. Motion Planning for Self-Driving Cars (The "Final Boss")
+### 1. Motion Planning for Self-Driving Cars
 Developed a full-stack trajectory planner to navigate a vehicle through a dynamic urban environment with obstacles.
 *   **Behavioral Planning:** Implemented a state-machine to handle intersections, stop signs, and lead-vehicle tracking.
 *   **Local Planning:** Generated path lattices and velocity profiles using cubic spirals.
