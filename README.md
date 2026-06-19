@@ -1,4 +1,4 @@
-# self-driving-cars
+# Self-Driving-Cars
 ## Autonomous Vehicle Engineering Stack
 ### Deep Learning, Computer Vision, and Control Systems in the CARLA Simulator
 
